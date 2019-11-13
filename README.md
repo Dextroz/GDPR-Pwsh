@@ -15,7 +15,7 @@ Import-Module -Name "{Full Path}\GDPR-Pwsh\GDPR-Pwsh" -Verbose
 
 * **NOTE**: By default, the function uses **smtp.gmail.com** as it's default SMTP server.
 
-* See [GDPR-Pwsh.psm1](GDPR-Pwsh\GDPR-Pwsh.psm1) for all parameters and examples.
+* See [GDPR-Pwsh.psm1](GDPR-Pwsh/GDPR-Pwsh.psm1) for all parameters and examples.
 
 ### Function (Send-GdprEmail)
 
