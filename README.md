@@ -1,7 +1,11 @@
 # GDPR-Pwsh
 A PowerShell app/function to send GDPR emails; powered by AnyBox. 
 
-# Installation
+## Dependencies
+
+The function on it's own doesn't require any dependencies. However, if you use the app, it requires the [AnyBox](https://github.com/dm3ll3n/AnyBox). When executing `Show-GdprPwsh`, the function will attempt to install AnyBox for you if not present on the host. 
+
+## Installation
 
 ```powershell
 Import-Module -Name "{Full Path}\GDPR-Pwsh\GDPR-Pwsh" -Verbose
