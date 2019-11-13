@@ -3,7 +3,7 @@ A PowerShell app/function to send GDPR emails; powered by AnyBox.
 
 ## Dependencies
 
-The function on it's own doesn't require any dependencies. However, if you use the app, it requires the [AnyBox](https://github.com/dm3ll3n/AnyBox). When executing `Show-GdprPwsh`, the function will attempt to install AnyBox for you if not present on the host. 
+The function on it's own doesn't require any dependencies. However, if you use the app, it requires the [AnyBox](https://github.com/dm3ll3n/AnyBox) module. When executing `Show-GdprPwsh`, the function will attempt to install AnyBox for you if it is not present on the host. 
 
 ## Installation
 
