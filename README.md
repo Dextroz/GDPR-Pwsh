@@ -1,6 +1,9 @@
 # GDPR-Pwsh
 A PowerShell app/function to send GDPR emails; powered by AnyBox. 
 
+Are you tired of sending GDPR emails 📧 asking for organisations to delete your data? Then look no further! GDPR-Pwsh has got your back! 💪
+Send consistent GDPR emails requesting that organisations remove your data 🗄️
+
 ## Dependencies
 
 The function on it's own doesn't require any dependencies. However, if you use the app, it requires the [AnyBox](https://github.com/dm3ll3n/AnyBox) module. When executing `Show-GdprPwsh`, the function will attempt to install AnyBox for you if it is not present on the host. 
